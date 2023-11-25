@@ -55,3 +55,24 @@ console.log(false && (false || true))
 //1 < 1  1 не більше 1 тому false (пишаюсь що без chatgpt)
 console.log((+null == false) < 1 ** 5)
 
+/* Відповіді
+number33
+3
+qwerty
+42hillel
+false
+1
+NaN
+1
+61
+2
+10false
+false
+27
+true
+1
+false
+true
+false
+false
+*/
